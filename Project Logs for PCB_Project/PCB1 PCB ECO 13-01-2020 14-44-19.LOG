@@ -1,0 +1,20 @@
+Added Component: Designator=J?(BTB2-54-V40F-04)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = "Board Template Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "Harwin-M20-6102005 (stackthrough)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BTB2-54-V40F-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BTB2-54-V40F-04)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = "Board Template Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "Harwin-M20-6102005 (stackthrough)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BTB2-54-V40F-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J?-C0
+Added Pin To Net: NetName=VCC Pin=J?-C1
+Added Pin To Net: NetName=VCC Pin=U?-10
+Added Pin To Net: NetName=VCC Pin=U?-31
+Added Pin To Net: NetName=VCC Pin=U?-99
+Change Net Name : Old Net Name=VCC New Net Name=GND
+Added Member To Class: ClassName=Sheet2 Member=Component J? PC104-CN-2P-F-R40
+Added Member To Class: ClassName=Sheet2 Member=Component J? PC104-CN-2P-F-R40
