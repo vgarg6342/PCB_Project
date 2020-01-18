@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetC1_2 New Net Name=VCC
+Change Net Name : Old Net Name=NetC3_2 New Net Name=AVCC
+Change Net Name : Old Net Name=NetR1_1 New Net Name=reset
